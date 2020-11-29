@@ -157,8 +157,8 @@
 
 .massage_btn {overflow:hidden; padding-top:20px;}
 
-/* .mobile_wrap .footer {background: #f7f7f7; margin: 15% 0 0 0;} */
-.mobile_wrap .footer {background: #f7f7f7; margin: 0 0 0 0;}
+.mobile_wrap .footer {background: #f7f7f7; margin: 15% 0 0 0;}
+/*.mobile_wrap .footer {background: #f7f7f7; margin: 0 0 0 0;}*/
 .footer .sns_a {font-size:0px; background-color: #999;}
 .footer .sns_a li { display:inline-block; width:25%;}
 .footer .sns_a li a {display:block; padding:0px 3px;}
